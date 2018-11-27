@@ -1,0 +1,7 @@
+spring: 
+    application:
+        name: Zuul-Gateway 
+
+
+server: 
+    port: 9999
